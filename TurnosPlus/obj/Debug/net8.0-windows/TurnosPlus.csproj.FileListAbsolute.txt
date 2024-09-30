@@ -1,0 +1,17 @@
+C:\Users\Mauricio\source\repos\TurnosPlus\TurnosPlus\bin\Debug\net8.0-windows\TurnosPlus.exe
+C:\Users\Mauricio\source\repos\TurnosPlus\TurnosPlus\bin\Debug\net8.0-windows\TurnosPlus.deps.json
+C:\Users\Mauricio\source\repos\TurnosPlus\TurnosPlus\bin\Debug\net8.0-windows\TurnosPlus.runtimeconfig.json
+C:\Users\Mauricio\source\repos\TurnosPlus\TurnosPlus\bin\Debug\net8.0-windows\TurnosPlus.dll
+C:\Users\Mauricio\source\repos\TurnosPlus\TurnosPlus\bin\Debug\net8.0-windows\TurnosPlus.pdb
+C:\Users\Mauricio\source\repos\TurnosPlus\TurnosPlus\obj\Debug\net8.0-windows\TurnosPlus.Form1.resources
+C:\Users\Mauricio\source\repos\TurnosPlus\TurnosPlus\obj\Debug\net8.0-windows\TurnosPlus.Form2.resources
+C:\Users\Mauricio\source\repos\TurnosPlus\TurnosPlus\obj\Debug\net8.0-windows\TurnosPlus.csproj.GenerateResource.cache
+C:\Users\Mauricio\source\repos\TurnosPlus\TurnosPlus\obj\Debug\net8.0-windows\TurnosPlus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mauricio\source\repos\TurnosPlus\TurnosPlus\obj\Debug\net8.0-windows\TurnosPlus.AssemblyInfoInputs.cache
+C:\Users\Mauricio\source\repos\TurnosPlus\TurnosPlus\obj\Debug\net8.0-windows\TurnosPlus.AssemblyInfo.cs
+C:\Users\Mauricio\source\repos\TurnosPlus\TurnosPlus\obj\Debug\net8.0-windows\TurnosPlus.csproj.CoreCompileInputs.cache
+C:\Users\Mauricio\source\repos\TurnosPlus\TurnosPlus\obj\Debug\net8.0-windows\TurnosPlus.dll
+C:\Users\Mauricio\source\repos\TurnosPlus\TurnosPlus\obj\Debug\net8.0-windows\refint\TurnosPlus.dll
+C:\Users\Mauricio\source\repos\TurnosPlus\TurnosPlus\obj\Debug\net8.0-windows\TurnosPlus.pdb
+C:\Users\Mauricio\source\repos\TurnosPlus\TurnosPlus\obj\Debug\net8.0-windows\TurnosPlus.genruntimeconfig.cache
+C:\Users\Mauricio\source\repos\TurnosPlus\TurnosPlus\obj\Debug\net8.0-windows\ref\TurnosPlus.dll
